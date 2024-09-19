@@ -52,6 +52,10 @@
           fetch="https://github.com/Project-PenguinOS"
           revision="unity"/>
 
+  <remote name="ext"
+          fetch="https://github.com/Aospa-Ext"
+          revision="unity"/>
+
   <remote name="XD"
           fetch="https://github.com/ImSpiDy"
           revision="unity"/>
